@@ -2,6 +2,8 @@
 
 ChatGPT integrated with terminal with fancy styles from `rich` module.
 
+![chatgpt terminal](chatgpt_terminal.gif)
+
 use it by,
 
 ```bash
